@@ -1,2 +1,2 @@
-s = "a_b_c".rspilt("_")
+s = "a-b-c".rsplit("-")
 print(s)
